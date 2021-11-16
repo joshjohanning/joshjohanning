@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-⚡ I am a Senior Cloud Automation Engineer with the Cognizant Microsoft Business Group (formerly 10th Magnitude)
+⚡ I am a Senior DevOps Architect with GitHub 🚀
+
+⚡ Previously I was a Senior Cloud Automation Engineer with the Cognizant Microsoft Business Group (formerly 10th Magnitude)
 
 ⚡ I have been an avid user of Azure Pipelines and have my pipeline templates consolidated in my [pipeline-templates](https://github.com/joshjohanning/pipeline-templates) repo
 
