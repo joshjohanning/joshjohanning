@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-⚡ I am a Senior DevOps Architect with GitHub 🚀
+⚡ I am a Senior DevOps Architect with GitHub on the FastTrack team 🚀
 
 ⚡ Previously I was a Senior Cloud Automation Engineer with the Cognizant Microsoft Business Group (formerly 10th Magnitude)
 
