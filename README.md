@@ -6,11 +6,15 @@
 
 ⚡ I store my miscellaneous GitHub scripts in [github-misc-scripts](https://github.com/joshjohanning/github-misc-scripts) repo
 
-⚡ I use my [ghas-demo](https://github.com/joshjohanning/ghas-demo) repository for my GitHub Advanced Security Demo - see PDF [here](https://github.com/joshjohanning/ghas-demo/blob/main/GHAS%20Demo.pdf)
+⚡ I use my [ghas-demo](https://github.com/joshjohanning/ghas-demo) repository for my GitHub Advanced Security Demo - see PDF [here](https://github.com/joshjohanning/ghas-demo/blob/main/ghas-demo.pdf)
 
 ⚡ I have been an avid user of Azure Pipelines and have my pipeline templates consolidated in my [pipeline-templates](https://github.com/joshjohanning/pipeline-templates) repo
 
 ⚡ I blog about my DevOps experiences at [josh-ops.com](https://josh-ops.com)
+
+⚡ To contact me: 
+  - 🌱 Leave a comment on one of my [posts](https://josh-ops.com)!
+  - 🌱 [Message me on LinkedIn](https://www.linkedin.com/in/joshua-johanning/)
 
 <!--
 **joshjohanning/joshjohanning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
