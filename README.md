@@ -1,16 +1,16 @@
+<a href="https://josh-ops.com"><img src="https://img.shields.io/static/v1?label=blog&message=josh-ops.com&color=teal"></a> <a href="https://www.linkedin.com/in/joshua-johanning/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=profile&color=blue"></a>
+
 ### Hi there 👋
 
-⚡ I am a Senior DevOps Architect with GitHub on the FastTrack team 🚀
+⚡ I am a Senior DevOps Architect with GitHub :octocat: on the FastTrack team
 
-⚡ Previously I was a Senior Cloud Automation Engineer with the Cognizant Microsoft Business Group (formerly 10th Magnitude)
+⚡ I blog about my GitHub and my DevOps experiences at [josh-ops.com](https://josh-ops.com) 📖
 
-⚡ I store my miscellaneous GitHub scripts in [github-misc-scripts](https://github.com/joshjohanning/github-misc-scripts) repo
+⚡ I store my miscellaneous GitHub scripts in [github-misc-scripts](https://github.com/joshjohanning/github-misc-scripts) repo ✨
 
-⚡ I use my [ghas-demo](https://github.com/joshjohanning/ghas-demo) repository for my GitHub Advanced Security Demo - see PDF [here](https://github.com/joshjohanning/ghas-demo/blob/main/ghas-demo.pdf)
+⚡ Check out some of my GitHub Actions on the Actions Marketplace [here](https://github.com/marketplace?type=actions&query=joshjohanning) 🚀
 
 ⚡ I have been an avid user of Azure Pipelines and have my pipeline templates consolidated in my [pipeline-templates](https://github.com/joshjohanning/pipeline-templates) repo
-
-⚡ I blog about my DevOps experiences at [josh-ops.com](https://josh-ops.com)
 
 ⚡ To contact me: 
   - 🌱 Leave a comment on one of my [posts](https://josh-ops.com)!
