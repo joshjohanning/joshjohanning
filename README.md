@@ -1,6 +1,6 @@
 <a href="https://josh-ops.com"><img src="https://img.shields.io/static/v1?label=blog&message=josh-ops.com&color=teal"></a> <a href="https://www.linkedin.com/in/joshua-johanning/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=profile&color=blue"></a>
 
-### Hi there 👋
+## 👋 Hi there
 
 ⚡ I am a Senior DevOps Architect with GitHub :octocat: on the FastTrack team
 
@@ -12,9 +12,17 @@
 
 ⚡ I have been an avid user of Azure Pipelines and have my pipeline templates consolidated in my [pipeline-templates](https://github.com/joshjohanning/pipeline-templates) repo
 
-⚡ To contact me: 
-  - 🌱 Leave a comment on one of my [posts](https://josh-ops.com)!
-  - 🌱 [Message me on LinkedIn](https://www.linkedin.com/in/joshua-johanning/)
+⚡ To contact me:
+
+- 🌱 Leave a comment on one of my [posts](https://josh-ops.com)!
+- 🌱 [Message me on LinkedIn](https://www.linkedin.com/in/joshua-johanning/)
+
+## 📚 Blog posts
+
+<ul>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+</ul>
 
 <!--
 **joshjohanning/joshjohanning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

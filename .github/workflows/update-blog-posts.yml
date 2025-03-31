@@ -1,0 +1,26 @@
+name: Update blog posts
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs once per day at midnight
+  workflow_dispatch:
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in blog posts
+        uses: gautamkrishnar/blog-post-workflow@97c227a4c27363bfdb02eb7f17bb62eb519ff4e4 # v1.9.0
+        with:
+          feed_list: 'https://josh-ops.com/feed.xml'
+          date_format: 'mmm d yyyy'
+          template: '<li><a href="$url">$title</a> ($date)</li>'
+          tag_post_pre_newline: 'true'
+          committer_username: 'github-actions[bot]'
+          committer_email: 'github-actions[bot]@users.noreply.github.com'
+          commit_message: | 
+            docs: update blog posts
