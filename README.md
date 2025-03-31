@@ -21,6 +21,7 @@
 
 <ul>
 <!-- BLOG-POST-LIST:START -->
+<li><a href="https://josh-ops.com/posts/github-apps-commit-email/">GitHub Apps: Configuring the Git Email for Commits</a> (Nov 22 2024)</li><li><a href="https://josh-ops.com/posts/github-sub-issues-and-issue-types/">GitHub Issues: Scripts for working with Sub-Issues and Issue Types</a> (Nov 15 2024)</li><li><a href="https://josh-ops.com/posts/github-migration-tools/">Enhancing GitHub Migrations with Additional Tooling</a> (Sep 18 2024)</li><li><a href="https://josh-ops.com/posts/github-organization-readme-badge-generator/">GitHub Organization Readme Badge Generator</a> (Aug 14 2024)</li><li><a href="https://josh-ops.com/posts/github-composite-action-python/">GitHub Actions: Create a Composite Action in Python</a> (Jun 19 2024)</li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
