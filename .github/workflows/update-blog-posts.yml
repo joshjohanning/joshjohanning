@@ -13,7 +13,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Pull in blog posts
-        uses: gautamkrishnar/blog-post-workflow@97c227a4c27363bfdb02eb7f17bb62eb519ff4e4 # v1.9.0
+        uses: gautamkrishnar/blog-post-workflow@a438c193c42378ff312e0adea57c632d6cb14d95 # v1.9.1
         with:
           feed_list: 'https://josh-ops.com/feed.xml'
           date_format: 'mmm d yyyy'
