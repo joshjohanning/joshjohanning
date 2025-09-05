@@ -21,7 +21,7 @@
 
 <ul>
 <!-- BLOG-POST-LIST:START -->
-<li><a href="https://josh-ops.com/posts/github-actions-export-actions-usage/">Exporting GitHub Actions Dependency Data for Your Organization</a> (Aug 24 2025)</li><li><a href="https://josh-ops.com/posts/github-actions-allow-list-as-code/">Implementing a GitHub Actions Allow List as Code</a> (Aug 21 2025)</li><li><a href="https://josh-ops.com/posts/github-blog-post-graphql/">Published to the GitHub Blog: Tips and tricks for using GitHub CLI with GraphQL</a> (Apr 26 2025)</li><li><a href="https://josh-ops.com/posts/github-apps-commit-email/">GitHub Apps: Configuring the Git Email for Commits</a> (Nov 22 2024)</li><li><a href="https://josh-ops.com/posts/github-sub-issues-and-issue-types/">GitHub Issues: Scripts for working with Sub-Issues and Issue Types</a> (Nov 15 2024)</li>
+<li><a href="https://josh-ops.com/posts/hsa-expense-analyzer/">HSA Expense Analyzer CLI Tool</a> (Sep 4 2025)</li><li><a href="https://josh-ops.com/posts/github-actions-export-actions-usage/">Exporting GitHub Actions Dependency Data for Your Organization</a> (Aug 24 2025)</li><li><a href="https://josh-ops.com/posts/github-actions-allow-list-as-code/">Implementing a GitHub Actions Allow List as Code</a> (Aug 21 2025)</li><li><a href="https://josh-ops.com/posts/github-blog-post-graphql/">Published to the GitHub Blog: Tips and tricks for using GitHub CLI with GraphQL</a> (Apr 26 2025)</li><li><a href="https://josh-ops.com/posts/github-apps-commit-email/">GitHub Apps: Configuring the Git Email for Commits</a> (Nov 22 2024)</li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
