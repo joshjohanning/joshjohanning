@@ -1,4 +1,8 @@
-<a href="https://josh-ops.com"><img src="https://img.shields.io/static/v1?label=blog&message=josh-ops.com&color=teal"></a> <a href="https://www.linkedin.com/in/joshua-johanning/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=profile&color=blue"></a>
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=profile&color=blue)][linkedin]
+[![authored actions](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/joshjohanning/badges/main/authored-actions/action-count.json)][authored-actions]
+[![blog](https://img.shields.io/static/v1?label=blog&message=josh-ops.com&color=teal)][blog]
+[![blog posts](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/joshjohanning/badges/main/blog/post-count.json)][blog-posts]
+[![most recent post date](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/joshjohanning/badges/main/blog/most-recent-post-date.json)][most-recent-post]
 
 ## 👋 Hi there
 
@@ -39,3 +43,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[blog]: https://josh-ops.com/
+[linkedin]: https://www.linkedin.com/in/joshua-johanning/
+[blog-posts]: https://josh-ops.com/
+[most-recent-post]: https://josh-ops.com/archives/
+[authored-actions]: https://github.com/search?q=user%3Ajoshjohanning+topic%3Agithub+topic%3Aactions+fork%3Atrue&type=repositories&s=updated&o=desc&p=1
