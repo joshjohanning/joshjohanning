@@ -1,20 +1,22 @@
-[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=profile&color=blue)][linkedin]
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=profile&color=blue&labelColor=333)][linkedin]
 [![authored actions](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/joshjohanning/badges/main/authored-actions/action-count.json)][authored-actions]
-[![blog](https://img.shields.io/static/v1?label=blog&message=josh-ops.com&color=teal)][blog]
+[![stars](https://img.shields.io/github/stars/joshjohanning/github-misc-scripts?style=flat&logo=github&color=yellow&label=github-misc-scripts%20stars%20★&labelColor=333)][stars]
+<br>
+[![blog](https://img.shields.io/static/v1?label=blog&message=josh-ops.com&color=teal&labelColor=333)][blog]
 [![blog posts](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/joshjohanning/badges/main/blog/post-count.json)][blog-posts]
 [![most recent post date](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/joshjohanning/badges/main/blog/most-recent-post-date.json)][most-recent-post]
 
 ## 👋 Hi there
 
-⚡ I am a **Senior DevOps Architect** with **GitHub** :octocat: on the **FastTrack** team
+⚡ I am a **Senior DevOps Architect** with **GitHub** :octocat: on the **FastTrack/ODST** team 🎯
 
-⚡ I blog about my **GitHub** and **DevOps** experiences at [**josh-ops.com**](https://josh-ops.com) 📖
+⚡ I blog about my GitHub and DevOps experiences at [josh-ops.com](https://josh-ops.com) 📖
 
-⚡ I store my **GitHub automation scripts** in [**github-misc-scripts**](https://github.com/joshjohanning/github-misc-scripts) repo ✨
+⚡ I store my GitHub automation scripts in [github-misc-scripts](https://github.com/joshjohanning/github-misc-scripts) repo ✨
 
-⚡ Check out some of my **GitHub Actions** on the [**Actions Marketplace**](https://github.com/marketplace?type=actions&query=joshjohanning) 🚀
+⚡ Check out some of my GitHub Actions on the [Actions Marketplace](https://github.com/marketplace?type=actions&query=joshjohanning) 🚀
 
-⚡ I have been an avid user of **Azure Pipelines** and have my pipeline templates consolidated in my [**azure-devops-pipeline-templates**](https://github.com/joshjohanning/azure-devops-pipeline-templates) repo 🛠️
+⚡ I have been an avid user of Azure Pipelines with templates in my [azure-devops-pipeline-templates](https://github.com/joshjohanning/azure-devops-pipeline-templates) repo 🛠️
 
 ⚡ To contact me:
 
@@ -44,8 +46,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[blog]: https://josh-ops.com/
 [linkedin]: https://www.linkedin.com/in/joshua-johanning/
+[authored-actions]: https://github.com/search?q=user%3Ajoshjohanning+topic%3Agithub+topic%3Aactions+fork%3Atrue&type=repositories&s=updated&o=desc&p=1
+[stars]: https://github.com/joshjohanning/github-misc-scripts/stargazers
+[blog]: https://josh-ops.com/
 [blog-posts]: https://josh-ops.com/
 [most-recent-post]: https://josh-ops.com/archives/
-[authored-actions]: https://github.com/search?q=user%3Ajoshjohanning+topic%3Agithub+topic%3Aactions+fork%3Atrue&type=repositories&s=updated&o=desc&p=1
