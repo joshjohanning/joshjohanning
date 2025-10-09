@@ -2,22 +2,22 @@
 
 ## 👋 Hi there
 
-⚡ I am a Senior DevOps Architect with GitHub :octocat: on the FastTrack team
+⚡ I am a **Senior DevOps Architect** with **GitHub** :octocat: on the **FastTrack** team
 
-⚡ I blog about my GitHub and my DevOps experiences at [josh-ops.com](https://josh-ops.com) 📖
+⚡ I blog about my **GitHub** and **DevOps** experiences at [**josh-ops.com**](https://josh-ops.com) 📖
 
-⚡ I store my miscellaneous GitHub scripts in [github-misc-scripts](https://github.com/joshjohanning/github-misc-scripts) repo ✨
+⚡ I store my **GitHub automation scripts** in [**github-misc-scripts**](https://github.com/joshjohanning/github-misc-scripts) repo ✨
 
-⚡ Check out some of my GitHub Actions on the Actions Marketplace [here](https://github.com/marketplace?type=actions&query=joshjohanning) 🚀
+⚡ Check out some of my **GitHub Actions** on the [**Actions Marketplace**](https://github.com/marketplace?type=actions&query=joshjohanning) 🚀
 
-⚡ I have been an avid user of Azure Pipelines and have my pipeline templates consolidated in my [pipeline-templates](https://github.com/joshjohanning/pipeline-templates) repo
+⚡ I have been an avid user of **Azure Pipelines** and have my pipeline templates consolidated in my [**azure-devops-pipeline-templates**](https://github.com/joshjohanning/azure-devops-pipeline-templates) repo 🛠️
 
 ⚡ To contact me:
 
-- 🌱 Leave a comment on one of my [posts](https://josh-ops.com)!
+- 🌱 Tag me in comment on one of my [posts](https://josh-ops.com)!
 - 🌱 [Message me on LinkedIn](https://www.linkedin.com/in/joshua-johanning/)
 
-## 📚 Blog posts
+## 📚 Recent Blog posts
 
 <ul>
 <!-- BLOG-POST-LIST:START -->
