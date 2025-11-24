@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
       - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@eba05ad46e6bac02165b77289978caf47699a41f # v1.9.3
         with:
