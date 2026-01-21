@@ -31,6 +31,42 @@
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
+## 💎 Featured Projects
+
+### Automation
+
+- [github-misc-scripts](https://github.com/joshjohanning/github-misc-scripts) - My open-source collection of miscellaneous scripts for GitHub administration and automation ✨
+- [azure-devops-misc-scripts](https://github.com/joshjohanning/azure-devops-misc-scripts) - Azure DevOps script samples for automation
+- [ado_workitems_to_github_issues](https://github.com/joshjohanning/ado_workitems_to_github_issues) - Migrate Azure DevOps work items to GitHub Issues
+
+### 🚀 GitHub Actions
+
+- [ApproveOps](https://github.com/joshjohanning/approveops) - GitHub Action for Approvals in IssueOps (ChatOps)
+- [azdo_commit_message_validator](https://github.com/joshjohanning/azdo_commit_message_validator) - GitHub Action to enforce commits are linked to Azure Boards work items, and link the work item to the pull request
+- [bulk-github-repo-sync-action](https://github.com/joshjohanning/bulk-github-repo-sync-action) 🔄 An action to sync GitHub repositories from source to target organizations using mirror cloning.
+- [twistlock-results-json-to-markdown-action](https://github.com/joshjohanning/twistlock-results-json-to-markdown-action) - An action to convert Twistlock/Prisma scan results from JSON to Markdown
+- [organization-readme-badge-generator](https://github.com/joshjohanning/organization-readme-badge-generator) - An action to generate organization readme badges
+- [publish-github-action](https://github.com/joshjohanning/publish-github-action) - 📢 Publish your JavaScript/TypeScript-based GitHub Actions
+- [enforce-github-pat-expiration](https://github.com/joshjohanning/enforce-github-pat-expiration) - GitHub action to check to see if PATs are conforming to a specific expiration policy
+- [revoke-github-ssh-key-sso-authorization](https://github.com/joshjohanning/revoke-github-ssh-key-sso-authorization) - GitHub Action to revoke the SSO authorization for SSH keys against an organization
+- [joshjohanning/text-to-emoji-action](https://github.com/joshjohanning/text-to-emoji-action) - A simple (example) GitHub Composite Action that takes an input (like food, color, animal) and returns back an emoji
+
+
+
+
+### Health
+
+- [hsa-expense-analyzer-cli](https://github.com/joshjohanning/hsa-expense-analyzer-cli) - 🩺 🧾 📊 A Node.js CLI tool that analyzes HSA expenses and reimbursements by year from a folder of receipt files
+
+### Other
+
+- [dotfiles](https://github.com/joshjohanning/dotfiles) - My dotfiles repository
+- [github-packages-migrate-nuget-packages-to-github-packages](https://github.com/joshjohanning/github-packages-migrate-nuget-packages-to-github-packages) - Migrate NuGet packages from another source to GitHub Packages
+- [github-packages-migrate-nuget-packages-between-github-instances](https://github.com/joshjohanning/github-packages-migrate-nuget-packages-between-github-instances) - Migrate NuGet packages from one GitHub instance to another
+- [joshjohanning/approved-actions-enforcer-app](https://github.com/joshjohanning/approved-actions-enforcer-app) - A Probot app designed to review Actions workflows to ensure it is running approved actions, and if not, terminate the workflow
+- [github-actions-log-warning-checker](https://github.com/joshjohanning/github-actions-log-warning-checker) - Bash script to search for workflow runs referencing deprecated workflow commands
+- [actions-ref-linter](https://github.com/joshjohanning/actions-ref-linter) An action to check if there are references to @main or @branch-name in actions workflow files
+
 <!--
 **joshjohanning/joshjohanning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
