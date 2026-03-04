@@ -27,7 +27,7 @@
 
 <ul>
 <!-- BLOG-POST-LIST:START -->
-<li><a href="https://josh-ops.com/posts/bulk-github-repo-settings-sync-action/">Syncing GitHub Repository Settings and Files in Bulk with a GitHub Action</a> (Mar 2 2026)</li><li><a href="https://josh-ops.com/posts/github-discussions-migration-utility/">GitHub Discussions Migration Utility</a> (Oct 7 2025)</li><li><a href="https://josh-ops.com/posts/github-enterprise-apps/">Using GitHub Enterprise Apps for Programmatic App Management Across Orgs</a> (Sep 5 2025)</li><li><a href="https://josh-ops.com/posts/hsa-expense-analyzer/">HSA Expense Analyzer CLI Tool</a> (Sep 4 2025)</li><li><a href="https://josh-ops.com/posts/github-actions-export-actions-usage/">Exporting GitHub Actions Dependency Data for Your Organization</a> (Aug 24 2025)</li>
+<li><a href="https://josh-ops.com/posts/github-agentic-workflows/">Getting Started with GitHub Agentic Workflows: A Hands-On Guide</a> (Mar 3 2026)</li><li><a href="https://josh-ops.com/posts/bulk-github-repo-settings-sync-action/">Syncing GitHub Repository Settings and Files in Bulk with a GitHub Action</a> (Mar 2 2026)</li><li><a href="https://josh-ops.com/posts/github-discussions-migration-utility/">GitHub Discussions Migration Utility</a> (Oct 7 2025)</li><li><a href="https://josh-ops.com/posts/github-enterprise-apps/">Using GitHub Enterprise Apps for Programmatic App Management Across Orgs</a> (Sep 5 2025)</li><li><a href="https://josh-ops.com/posts/hsa-expense-analyzer/">HSA Expense Analyzer CLI Tool</a> (Sep 4 2025)</li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
