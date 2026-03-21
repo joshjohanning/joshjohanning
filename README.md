@@ -27,7 +27,7 @@
 
 <ul>
 <!-- BLOG-POST-LIST:START -->
-<li><a href="https://josh-ops.com/posts/bulk-github-repo-sync-action/">Syncing GitHub Repositories Between Environments in Bulk</a> (Mar 4 2026)</li><li><a href="https://josh-ops.com/posts/github-enterprise-apps-install-marketplace-apps/">Installing GitHub Marketplace Apps Programmatically with Enterprise Apps</a> (Mar 4 2026)</li><li><a href="https://josh-ops.com/posts/github-agentic-workflows/">Getting Started with GitHub Agentic Workflows: A Hands-On Guide</a> (Mar 3 2026)</li><li><a href="https://josh-ops.com/posts/bulk-github-repo-settings-sync-action/">Syncing GitHub Repository Settings and Files in Bulk with a GitHub Action</a> (Mar 2 2026)</li><li><a href="https://josh-ops.com/posts/github-discussions-migration-utility/">GitHub Discussions Migration Utility</a> (Oct 7 2025)</li>
+<li><a href="https://josh-ops.com/posts/github-actions-oidc-custom-properties/">GitHub Actions OIDC: Using Repository Custom Properties for Attribute-Based Access Control</a> (Mar 20 2026)</li><li><a href="https://josh-ops.com/posts/azure-federated-credential-claims-matching-expressions/">Azure Federated Credentials: Using Claims Matching Expressions with GitHub Actions OIDC</a> (Mar 20 2026)</li><li><a href="https://josh-ops.com/posts/bulk-github-repo-sync-action/">Syncing GitHub Repositories Between Environments in Bulk</a> (Mar 4 2026)</li><li><a href="https://josh-ops.com/posts/github-enterprise-apps-install-marketplace-apps/">Installing GitHub Marketplace Apps Programmatically with Enterprise Apps</a> (Mar 4 2026)</li><li><a href="https://josh-ops.com/posts/github-agentic-workflows/">Getting Started with GitHub Agentic Workflows: A Hands-On Guide</a> (Mar 3 2026)</li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
