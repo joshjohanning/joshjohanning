@@ -27,7 +27,7 @@
 
 <ul>
 <!-- BLOG-POST-LIST:START -->
-<li><a href="https://josh-ops.com/posts/github-copilot-plugins/">Creating a GitHub Copilot Plugin</a> (Jun 23 2026)</li><li><a href="https://josh-ops.com/posts/github-dot-github-repository/">Everything you can do with .github and .github-private repositories</a> (Jun 22 2026)</li><li><a href="https://josh-ops.com/posts/github-actions-custom-deployment-protection-rules/">Enforcing Deployment Promotion with Custom Deployment Protection Rules</a> (Jun 22 2026)</li><li><a href="https://josh-ops.com/posts/enforcing-immutable-actions-required-workflows/">Enforcing Immutable Actions with Required Workflows</a> (Apr 4 2026)</li><li><a href="https://josh-ops.com/posts/maintaining-oss-github-actions/">How I Maintain My Open Source GitHub Actions</a> (Mar 25 2026)</li>
+<li><a href="https://josh-ops.com/posts/github-issueops/">IssueOps: Self-Service Automation with GitHub Issues and Actions</a> (Jul 31 2026)</li><li><a href="https://josh-ops.com/posts/github-copilot-plugins/">Creating a GitHub Copilot Plugin</a> (Jul 27 2026)</li><li><a href="https://josh-ops.com/posts/github-dot-github-repository/">Everything you can do with .github and .github-private repositories</a> (Jun 22 2026)</li><li><a href="https://josh-ops.com/posts/github-actions-custom-deployment-protection-rules/">Enforcing Deployment Promotion with Custom Deployment Protection Rules</a> (Jun 22 2026)</li><li><a href="https://josh-ops.com/posts/enforcing-immutable-actions-required-workflows/">Enforcing Immutable Actions with Required Workflows</a> (Apr 4 2026)</li>
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
